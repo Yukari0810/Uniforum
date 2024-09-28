@@ -216,3 +216,10 @@ http://127.0.0.1:8000/
 ##### PASSWORD:     
 ##### DATABASE: uniforum
 ##### PORT: 3306
+
+## Seeder設定
+seederファイルが設定されているので、
+```
+php artisan db:seed
+```
+の実行をお願いいたします。
